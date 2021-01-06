@@ -1,0 +1,45 @@
+@font-face{font-family: madetommmy; src:url(madetommmy.otf);}
+html{scroll-behavior: smooth;}
+body{font-family: madetommmy;margin: 0 auto;}
+div#header{background: #f1f0f0;}
+div.header{display: inline-block;font-size: 80%;}
+div#contact{margin-left: 5%;}
+div#location{margin-left: 4%;}
+div#work_time{margin-left: 4%;}
+p#title{display: inline-block; font-weight: bolder;}
+div#navigations{float: right;}
+p.no_line_height{line-height: 0.4;}
+div ul{float: right;padding: 0;}
+p#title{margin-left: 5%;color: #f4a71d;}
+div ul li{float: left; list-style: none;margin-right: 5px;margin-left: 5px;}
+div a{font-size: 90%;font-weight: bold;text-decoration: none;}
+div a#nav_home{color: #f4a71d;}
+div#hero_container{background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7)),url("hero.jpg"); background-size: cover;height: 500px;}
+div#hero_content{margin-left: 5%;display: inline-block;margin-top: 10%;
+    width: 30%;border: 1px solid #f4a71d;padding: 60px;border-radius: 15px;}
+h2#hero_content_title{margin-bottom: auto;}
+p#space{font-size: 90%;font-family:'Times New Roman', Times, serif ;}
+button#our_services{padding: 10px;background-color:#f4a71d ;color: #ffffff;border: none;margin-right: 90px;border-radius: 8px;}
+button#learn_more{padding: 10px;border:none;border-radius: 8px;}
+a.link_our_services{color: #ffcc64;}
+div#down_note{background-color: #363636;color: #ffffff;}
+div#request_a_quote{float: right;margin-right: 5%;background-color: #f4a71d;padding: 18px 30px 19px 210px; }
+div#date{display: inline-block;margin-left: 5%;}
+img#search_icon{width: 13%;}
+img#telephone{width: 20px;vertical-align: middle;margin-right: 8px;}
+div#mission_statement{margin-left: 5%;}
+p#mission_statement_sent{width: 50%;}
+div.box{display: inline-block; width: 30%;}
+p.box_text{background-color: #f4a71d;text-align: center;padding: 80px;}
+div#our_service{background-color: #f1f1f1;text-align: center;}
+div#our_service_text{padding-top: 20px;}
+div#our_service_text p{font-size: 90%;width: 70%;margin-left: auto; margin-right: auto;}
+div#one{display: inline-block; width: 30%;background-color: #f4a71d;margin:20px;color: white;}
+div#two{display: inline-block; width: 30%;background-color: #ffffff;margin: 20px;border-top-color: #f4a71d;border-top-style: solid;}
+div#three{display: inline-block; width: 30%;background-color: #ffffff;margin:20px;border-top-color: #f4a71d;border-top-style: solid;}
+div#four{display: inline-block; width: 30%;background-color: #ffffff;margin: 20px;border-top-color: #f4a71d;border-top-style: solid;}
+div#five{display: inline-block;width: 30%;background-color: #ffffff;margin: 20px;border-top-color: #f4a71d;border-top-style: solid;}
+div#six{display: inline-block; width: 30%;background-color: #ffffff;margin: 20px;border-top-color: #f4a71d;border-top-style: solid;}
+div#each_box{width: 100%;margin-left: auto;margin-right: auto;}
+img.service{width: 40px;}
+h3.h3{margin-top: auto;}
